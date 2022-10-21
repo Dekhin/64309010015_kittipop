@@ -1,8 +1,22 @@
-<food>
+<Food>
  <ThaiFood>
     <foodID>001</foodID>
     <foodname>ผัดกระเพราไก่</foodname>
    <price>45 บาท</price>    
  </ThaiFood>
-
-</food>
+ <ThaiFood>
+  <foodID>002</foodID>
+  <foodname>ผัดกระเพราหมูกรอบ</foodname>
+  <price>50 บาท</price>    
+ </ThaiFood>
+ <ThaiFood>
+  <foodID>003</foodID>
+  <foodname>ผัดกระเพราหมูเปื่อย</foodname>
+ <price>40 บาท</price>    
+ </ThaiFood>
+ <ThaiFood>
+  <foodID>004</foodID>
+  <foodname>ผัดกระเพราหมู</foodname>
+ <price>40 บาท</price>    
+ </ThaiFood>
+</Food>
