@@ -1,0 +1,66 @@
+var per=[{
+    "IDper":20001,
+    "Name":"นางสาวจันทรรัตน์ ปรีดาศิริกุล",
+    "Dept":"HR",
+    "Position":"HR",
+    "salary":27000,
+    "Bonus":"a",
+},{
+    "IDper":20002,
+    "Name":"นายภูมิพัฒน์ วัชรจิระกุล",
+    "Dept":"IT",
+    "Position":"System Engineer",
+    "salary":24000,
+    "Bonus":"s",
+},{
+    "IDper":20003,
+    "Name":"นางอนันตญา แสนวงศ์",
+    "Dept":"HR",
+    "Position":"HR",
+    "salary":38000,
+    "Bonus":"b",
+},{
+    "IDper":20004,
+    "Name":"นางสาวกันสิตา มิ่งมาลา",
+    "Dept":"HR",
+    "Position":"HR",
+    "salary":23000,
+    "Bonus":"a",
+},{
+    "IDper":20005,
+    "Name":"นายสุชาติ วัฒนศักดิ์มนตรี",
+    "Dept":"HR",
+    "Position":"HR",
+    "salary":76000,
+    "Bonus":"c",
+},{
+    "IDper":20006,
+    "Name":"นายกรณ์ อุดมทรัพย์",
+    "Dept":"Finance",
+    "Position":"Account",
+    "salary":51000,
+    "Bonus":"s",
+},{
+    "IDper":20007,
+    "Name":"นายจักริน ภูงาม",
+    "Dept":"HR",
+    "Position":"HR",  
+    "salary":19000,
+    "Bonus":"a",
+},{
+    "IDper":20008,
+    "Name":"นางอรัญญา เหล้าสกุล",
+    "Dept":"Finance",
+    "Position":"Account",
+    "salary":33000,
+    "Bonus":"c",
+},{
+    "IDper":20009,
+    "Name":"นางสาวสราวลี ธาราวงศ์",
+    "Dept":"it",
+    "Position":"System Account",
+    "salary":13000,
+    "Bonus":"s",
+}]
+
+
